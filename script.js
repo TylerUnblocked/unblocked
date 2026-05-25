@@ -41,9 +41,9 @@ function displayGames(gameList) {
   });
 }
 
-// Open Game
+// Open Game in Iframe
 function openGame(game) {
-playerSection.classList.remove("hidden");
+  playerSection.classList.remove("hidden");
 
   gameTitle.textContent = game.title;
   gameFrame.src = game.url;
@@ -52,6 +52,7 @@ playerSection.classList.remove("hidden");
     top: document.body.scrollHeight,
     behavior: "smooth"
   });
+}
 
 // Close Game
 closeBtn.addEventListener("click", () => {
