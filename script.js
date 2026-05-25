@@ -41,7 +41,7 @@ function displayGames(gameList) {
   });
 }
 
-// Open Game in New Tab
+// Open Game
 function openGame(game) {
   window.open(game.url, '_blank');
 }
