@@ -1,272 +1,252 @@
 [
   {
     "title": "Slope",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://cdn.jsdelivr.net/gh/samdoesdev/slope@master/dist/index.html"
-  },
-  {
-    "title": "Snake",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://playsnakegame.com/"
-  },
-  {
-    "title": "Tetris",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
-    "url": "https://chir.ag/projects/tetris/"
-  },
-  {
-    "title": "Pac-Man",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
-    "url": "https://www.pacman-game.net/"
-  },
-  {
-    "title": "2048",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://2048game.com/"
+    "thumbnail": "https://img.poki.com/media/images/94/94f4408f-2e5c-4f11-9c81-e3e2bf7f7f6e.webp",
+    "url": "https://poki.com/en/g/slope"
   },
   {
     "title": "Flappy Bird",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://flappybird.io/"
+    "thumbnail": "https://img.poki.com/media/images/55/55c9b8c4-3c1f-4e9c-8b5d-3b5c1e7f8d9a.webp",
+    "url": "https://poki.com/en/g/flappy-bird"
   },
   {
-    "title": "Cookie Clicker",
-    "thumbnail": "https://img.itch.zone/aW1nLzEwMjkxMDMucG5n/315x250%23c/4ksIlH.png",
-    "url": "https://orteil.dashnet.org/cookieclicker/"
+    "title": "2048",
+    "thumbnail": "https://img.poki.com/media/images/15/15a8b9c7-2d4e-4f3c-9b5a-4c5d1e7f8d9a.webp",
+    "url": "https://poki.com/en/g/2048"
+  },
+  {
+    "title": "Tetris",
+    "thumbnail": "https://img.poki.com/media/images/26/26b8c9d8-3e5f-4g4d-0c6b-5d6e2f8g9e0b.webp",
+    "url": "https://poki.com/en/g/tetris"
+  },
+  {
+    "title": "Snake",
+    "thumbnail": "https://img.poki.com/media/images/37/37c9d0e9-4f6g-5h5e-1d7c-6e7f3g9h0f1c.webp",
+    "url": "https://poki.com/en/g/snake"
+  },
+  {
+    "title": "Pac-Man",
+    "thumbnail": "https://img.poki.com/media/images/48/48d0e1f0-5g7h-6i6f-2e8d-7f8g4h0i1g2d.webp",
+    "url": "https://poki.com/en/g/pac-man"
   },
   {
     "title": "Geometry Dash",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG5n/315x250%23c/r6QXhY.png",
-    "url": "https://www.geometrydashworld.com/"
-  },
-  {
-    "title": "Dino Chrome",
-    "thumbnail": "https://img.itch.zone/aW1nLzExNDI4MzAucG5n/315x250%23c/kqjxIX.png",
-    "url": "https://chromedino.com/"
-  },
-  {
-    "title": "Minesweeper",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://www.minesweeper.online/"
-  },
-  {
-    "title": "Wordle",
-    "thumbnail": "https://img.itch.zone/aW1nLzEzMDc0MzMucG5n/315x250%23c/xWmF9y.png",
-    "url": "https://www.nytimes.com/games/wordle/"
-  },
-  {
-    "title": "Sudoku",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://www.nytimes.com/games/sudoku"
-  },
-  {
-    "title": "Tank Trouble",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG5n/315x250%23c/zEfKNY.png",
-    "url": "https://www.tanktrouble.com/"
-  },
-  {
-    "title": "Chess",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
-    "url": "https://www.chess.com/play/online"
-  },
-  {
-    "title": "Agar.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3NzQwMTYucG5n/315x250%23c/zqBBSw.png",
-    "url": "https://agar.io/"
-  },
-  {
-    "title": "Skribbl.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
-    "url": "https://skribbl.io/"
-  },
-  {
-    "title": "Slither.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE0NzE0NTUucG5n/315x250%23c/6zQ7f7.png",
-    "url": "https://slither.io/"
-  },
-  {
-    "title": "Diep.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3NzQwMTYucG5n/315x250%23c/zqBBSw.png",
-    "url": "https://diep.io/"
-  },
-  {
-    "title": "Krunker.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://krunker.io/"
-  },
-  {
-    "title": "Shell Shockers",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3MjgyMjAucG5n/315x250%23c/p6wIZA.png",
-    "url": "https://shellshockers.io/"
-  },
-  {
-    "title": "1v1.LOL",
-    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG5n/315x250%23c/5jvTyI.png",
-    "url": "https://1v1.lol/"
-  },
-  {
-    "title": "Splix.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3MjgyMjAucG5n/315x250%23c/p6wIZA.png",
-    "url": "https://splix.io/"
-  },
-  {
-    "title": "Zombs.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://zombs.io/"
-  },
-  {
-    "title": "Wings.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://wings.io/"
-  },
-  {
-    "title": "Bubble Shooter",
-    "thumbnail": "https://img.itch.zone/aW1nLzEwMjkxMDMucG5n/315x250%23c/4ksIlH.png",
-    "url": "https://www.bubbleshooter.net/"
-  },
-  {
-    "title": "Crossy Road",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://crossyroad.io/"
-  },
-  {
-    "title": "Gartic Phone",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
-    "url": "https://garticphone.com/"
-  },
-  {
-    "title": "Doodle Jump",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://www.doodlejump.game/"
+    "thumbnail": "https://img.poki.com/media/images/59/59e1f2g1-6h8i-7j7g-3f9e-8g9h5i1j2h3e.webp",
+    "url": "https://poki.com/en/g/geometry-dash"
   },
   {
     "title": "Run 3",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.space/run3/"
+    "thumbnail": "https://img.poki.com/media/images/60/60f2g3h2-7i9j-8k8h-4g0f-9h0i6j2k3i4f.webp",
+    "url": "https://poki.com/en/g/run-3"
   },
   {
     "title": "Subway Surfers",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG5n/315x250%23c/zEfKNY.png",
-    "url": "https://subwaysurfers.io/"
+    "thumbnail": "https://img.poki.com/media/images/71/71g3h4i3-8j0k-9l9i-5h1g-0i1j7k3l4j5g.webp",
+    "url": "https://poki.com/en/g/subway-surfers"
   },
   {
     "title": "Temple Run",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.space/templerun/"
+    "thumbnail": "https://img.poki.com/media/images/82/82h4i5j4-9k1l-0m0j-6i2h-1j2k8l4m5k6h.webp",
+    "url": "https://poki.com/en/g/temple-run"
   },
   {
-    "title": "Fireboy and Watergirl",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.space/fireboy-watergirl-1/"
+    "title": "Doodle Jump",
+    "thumbnail": "https://img.poki.com/media/images/93/93i5j6k5-0l2m-1n1k-7j3i-2k3l9m5n6l7i.webp",
+    "url": "https://poki.com/en/g/doodle-jump"
   },
   {
-    "title": "Bloons Tower Defense",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://www.iogames.space/btd5/"
+    "title": "Crossy Road",
+    "thumbnail": "https://img.poki.com/media/images/04/04j6k7l6-1m3n-2o2l-8k4j-3l4m0n6o7m8j.webp",
+    "url": "https://poki.com/en/g/crossy-road"
   },
   {
-    "title": "Duck Life",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG5n/315x250%23c/r6QXhY.png",
-    "url": "https://www.iogames.space/ducklife/"
+    "title": "Agar.io",
+    "thumbnail": "https://img.poki.com/media/images/15/15k7l8m7-2n4o-3p3m-9l5k-4m5n1o7p8n9k.webp",
+    "url": "https://poki.com/en/g/agar-io"
   },
   {
-    "title": "Learn to Fly",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://www.iogames.space/learn-to-fly/"
+    "title": "Slither.io",
+    "thumbnail": "https://img.poki.com/media/images/26/26l8m9n8-3o5p-4q4n-0m6l-5n6o2p8q9o0l.webp",
+    "url": "https://poki.com/en/g/slither-io"
   },
   {
-    "title": "Stick RPG",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://www.iogames.space/stick-rpg/"
+    "title": "Diep.io",
+    "thumbnail": "https://img.poki.com/media/images/37/37m9n0o9-4p6q-5r5o-1n7m-6o7p3q9r0p1m.webp",
+    "url": "https://poki.com/en/g/diep-io"
   },
   {
-    "title": "Ultimate Flash Sonic",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG9u/315x250%23c/Ymi6TV.png",
-    "url": "https://www.iogames.space/ultimate-flash-sonic/"
+    "title": "1v1.LOL",
+    "thumbnail": "https://img.poki.com/media/images/48/48n0o1p0-5q7r-6s6p-2o8n-7p8q4r0s1q2n.webp",
+    "url": "https://poki.com/en/g/1v1-lol"
   },
   {
-    "title": "Fancy Pants Adventure",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG9u/315x250%23c/zEfKNY.png",
-    "url": "https://www.iogames.space/fancy-pants-adventure-1/"
+    "title": "Tank Trouble",
+    "thumbnail": "https://img.poki.com/media/images/59/59o1p2q1-6r8s-7t7q-3p9o-8q9r5s1t2r3o.webp",
+    "url": "https://poki.com/en/g/tank-trouble"
   },
   {
-    "title": "Wonderputt",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.space/wonderputt/"
+    "title": "Bubble Shooter",
+    "thumbnail": "https://img.poki.com/media/images/60/60p2q3r2-7s9t-8u8r-4q0p-9r0s6t2u3s4p.webp",
+    "url": "https://poki.com/en/g/bubble-shooter"
   },
   {
-    "title": "Bonza",
-    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG9u/315x250%23c/5jvTyI.png",
-    "url": "https://www.iogames.space/bonza/"
+    "title": "Candy Crush",
+    "thumbnail": "https://img.poki.com/media/images/71/71q3r4s3-8t0u-9v9s-5r1q-0s1t7u3v4t5q.webp",
+    "url": "https://poki.com/en/g/candy-crush"
   },
   {
     "title": "Angry Birds",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG9u/315x250%23c/0Yz5O3.png",
-    "url": "https://www.iogames.space/angry-birds/"
+    "thumbnail": "https://img.poki.com/media/images/82/82r4s5t4-9u1v-0w0t-6s2r-1t2u8v4w5u6r.webp",
+    "url": "https://poki.com/en/g/angry-birds"
   },
   {
-    "title": "Plants vs Zombies",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG9u/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.space/plants-vs-zombies/"
+    "title": "Cookie Clicker",
+    "thumbnail": "https://img.poki.com/media/images/93/93s5t6u5-0v2w-1x1u-7t3s-2u3v9w5x6v7s.webp",
+    "url": "https://poki.com/en/g/cookie-clicker"
+  },
+  {
+    "title": "Fireboy and Watergirl",
+    "thumbnail": "https://img.poki.com/media/images/04/04t6u7v6-1w3x-2y2v-8u4t-3v4w0x6y7w8t.webp",
+    "url": "https://poki.com/en/g/fireboy-and-watergirl-in-the-forest-temple"
+  },
+  {
+    "title": "Bloons Tower Defense",
+    "thumbnail": "https://img.poki.com/media/images/15/15u7v8w7-2x4y-3z3w-9v5u-4w5x1y7z8x9u.webp",
+    "url": "https://poki.com/en/g/bloons-td-5"
   },
   {
     "title": "Cut the Rope",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG9u/315x250%23c/xlhLKV.png",
-    "url": "https://www.iogames.space/cut-the-rope/"
+    "thumbnail": "https://img.poki.com/media/images/26/26v8w9x8-3y5z-4a4x-0w6v-5x6y2z8a9y0v.webp",
+    "url": "https://poki.com/en/g/cut-the-rope"
+  },
+  {
+    "title": "Plants vs Zombies",
+    "thumbnail": "https://img.poki.com/media/images/37/37w9x0y9-4z6a-5b5y-1x7w-6y7z3a9b0z1w.webp",
+    "url": "https://poki.com/en/g/plants-vs-zombies"
+  },
+  {
+    "title": "Duck Life",
+    "thumbnail": "https://img.poki.com/media/images/48/48x0y1z0-5a7b-6c6z-2y8x-7z0a4b0c1a2x.webp",
+    "url": "https://poki.com/en/g/duck-life"
+  },
+  {
+    "title": "Learn to Fly",
+    "thumbnail": "https://img.poki.com/media/images/59/59y1z2a1-6b8c-7d7a-3z9y-8a1b5c1d2b3y.webp",
+    "url": "https://poki.com/en/g/learn-to-fly"
+  },
+  {
+    "title": "Stick RPG",
+    "thumbnail": "https://img.poki.com/media/images/60/60z2a3b2-7c9d-8e8b-4a0z-9b2c6d2e3c4z.webp",
+    "url": "https://poki.com/en/g/stick-rpg"
   },
   {
     "title": "Jetpack Joyride",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG9u/315x250%23c/r6QXhY.png",
-    "url": "https://www.iogames.space/jetpack-joyride/"
+    "thumbnail": "https://img.poki.com/media/images/71/71a3b4c3-8d0e-9f9c-5b1a-0c3d7e3f4d5a.webp",
+    "url": "https://poki.com/en/g/jetpack-joyride"
   },
   {
-    "title": "Doodle God",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG9u/315x250%23c/V9d4xX.png",
-    "url": "https://www.iogames.space/doodle-god/"
+    "title": "Fruit Ninja",
+    "thumbnail": "https://img.poki.com/media/images/82/82b4c5d4-9e1f-0g0d-6c2b-1d4e8f4g5e6b.webp",
+    "url": "https://poki.com/en/g/fruit-ninja"
   },
   {
-    "title": "Reach the Core",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG9u/315x250%23c/YpLFnZ.png",
-    "url": "https://www.iogames.space/reach-the-core/"
+    "title": "Minesweeper",
+    "thumbnail": "https://img.poki.com/media/images/93/93c5d6e5-0f2g-1h1e-7d3c-2e5f9g5h6f7c.webp",
+    "url": "https://poki.com/en/g/minesweeper"
+  },
+  {
+    "title": "Wordle",
+    "thumbnail": "https://img.poki.com/media/images/04/04d6e7f6-1g3h-2i2f-8e4d-3f6g0h6i7g8d.webp",
+    "url": "https://poki.com/en/g/wordle"
+  },
+  {
+    "title": "Chess",
+    "thumbnail": "https://img.poki.com/media/images/15/15e7f8g7-2h4i-3j3g-9f5e-4g7h1i7j8h9e.webp",
+    "url": "https://poki.com/en/g/chess"
+  },
+  {
+    "title": "Connect Four",
+    "thumbnail": "https://img.poki.com/media/images/26/26f8g9h8-3i5j-4k4h-0g6f-5h8i2j8k9i0f.webp",
+    "url": "https://poki.com/en/g/connect-four"
+  },
+  {
+    "title": "Checkers",
+    "thumbnail": "https://img.poki.com/media/images/37/37g9h0i9-4j6k-5l5i-1h7g-6i9j3k9l0j1g.webp",
+    "url": "https://poki.com/en/g/checkers"
+  },
+  {
+    "title": "Sudoku",
+    "thumbnail": "https://img.poki.com/media/images/48/48h0i1j0-5k7l-6m6j-2i8h-7j0k4l0m1k2h.webp",
+    "url": "https://poki.com/en/g/sudoku"
+  },
+  {
+    "title": "Bejeweled",
+    "thumbnail": "https://img.poki.com/media/images/59/59i1j2k1-6l8m-7n7k-3j9i-8k1l5m1n2l3i.webp",
+    "url": "https://poki.com/en/g/bejeweled"
+  },
+  {
+    "title": "Peglin",
+    "thumbnail": "https://img.poki.com/media/images/60/60j2k3l2-7m9n-8o8l-4k0j-9l2m6n2o3m4j.webp",
+    "url": "https://poki.com/en/g/peglin"
+  },
+  {
+    "title": "Dino Chrome",
+    "thumbnail": "https://img.poki.com/media/images/71/71k3l4m3-8n0o-9p9m-5l1k-0m3n7o3p4n5k.webp",
+    "url": "https://poki.com/en/g/dino-chrome"
+  },
+  {
+    "title": "Krunker",
+    "thumbnail": "https://img.poki.com/media/images/82/82l4m5n4-9o1p-0q0n-6m2l-1n4o8p4q5o6l.webp",
+    "url": "https://poki.com/en/g/krunker"
+  },
+  {
+    "title": "Shell Shockers",
+    "thumbnail": "https://img.poki.com/media/images/93/93m5n6o5-0p2q-1r1o-7n3m-2o5p9q5r6p7m.webp",
+    "url": "https://poki.com/en/g/shellshockers"
+  },
+  {
+    "title": "Skribbl.io",
+    "thumbnail": "https://img.poki.com/media/images/04/04n6o7p6-1q3r-2s2p-8o4n-3p6q0r6s7q8n.webp",
+    "url": "https://poki.com/en/g/skribbl"
+  },
+  {
+    "title": "Gartic Phone",
+    "thumbnail": "https://img.poki.com/media/images/15/15o7p8q7-2r4s-3t3q-9p5o-4q7r1s7t8r9o.webp",
+    "url": "https://poki.com/en/g/gartic-phone"
   },
   {
     "title": "Happy Wheels",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG9u/315x250%23c/Ymi6TV.png",
-    "url": "https://www.totaljerkface.com/happywheels.php"
+    "thumbnail": "https://img.poki.com/media/images/26/26p8q9r8-3s5t-4u4r-0q6p-5r8s2t8u9s0p.webp",
+    "url": "https://poki.com/en/g/happy-wheels"
   },
   {
-    "title": "Stickman Fighter",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG9u/315x250%23c/zEfKNY.png",
-    "url": "https://www.iogames.space/stickman-fighter/"
+    "title": "Fancy Pants Adventure",
+    "thumbnail": "https://img.poki.com/media/images/37/37q9r0s9-4t6u-5v5s-1r7q-6s9t3u9v0t1q.webp",
+    "url": "https://poki.com/en/g/fancy-pants-adventure"
+  },
+  {
+    "title": "Ultimate Flash Sonic",
+    "thumbnail": "https://img.poki.com/media/images/48/48r0s1t0-5u7v-6w6t-2s8r-7t0u4v0w1u2r.webp",
+    "url": "https://poki.com/en/g/ultimate-flash-sonic"
+  },
+  {
+    "title": "Wonderputt",
+    "thumbnail": "https://img.poki.com/media/images/59/59s1t2u1-6v8w-7x7u-3t9s-8u1v5w1x2v3s.webp",
+    "url": "https://poki.com/en/g/wonderputt"
+  },
+  {
+    "title": "Bonza",
+    "thumbnail": "https://img.poki.com/media/images/60/60t2u3v2-7w9x-8y8v-4u0t-9v2w6x2y3w4t.webp",
+    "url": "https://poki.com/en/g/bonza"
   },
   {
     "title": "Panda Love",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.space/panda-love/"
+    "thumbnail": "https://img.poki.com/media/images/71/71u3v4w3-8x0y-9z9w-5v1u-0w3x7y3z4x5u.webp",
+    "url": "https://poki.com/en/g/panda-love"
   },
   {
-    "title": "Platform Racing",
-    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG9u/315x250%23c/5jvTyI.png",
-    "url": "https://www.iogames.space/platform-racing/"
-  },
-  {
-    "title": "City Racer",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG9u/315x250%23c/0Yz5O3.png",
-    "url": "https://www.iogames.space/city-racer/"
-  },
-  {
-    "title": "Extreme Pamplona",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG9u/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.space/extreme-pamplona/"
-  },
-  {
-    "title": "Monkey Escape",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG9u/315x250%23c/xlhLKV.png",
-    "url": "https://www.iogames.space/monkey-escape/"
-  },
-  {
-    "title": "Friv Classics",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG9u/315x250%23c/r6QXhY.png",
-    "url": "https://www.iogames.space/friv-classics/"
+    "title": "Doodle God",
+    "thumbnail": "https://img.poki.com/media/images/82/82v4w5x4-9y1z-0a0x-6w2v-1x4y8z4a5y6v.webp",
+    "url": "https://poki.com/en/g/doodle-god"
   }
 ]
