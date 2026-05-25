@@ -41,7 +41,7 @@ function displayGames(gameList) {
   });
 }
 
-// Open Game
+// Open Game in new tab
 function openGame(game) {
  playerSection.classList.remove("hidden");
 
