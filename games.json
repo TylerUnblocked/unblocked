@@ -58,5 +58,750 @@
     "title": "Super Mario Bros",
     "thumbnail": "https://i.imgur.com/9uK4T9X.png",
     "url": "https://www.kongregate.com/games/tonystark101/super-mario-flash"
+  },
+  {
+    "title": "Pac-Man",
+    "thumbnail": "https://i.imgur.com/kL2pA8Y.png",
+    "url": "https://www.kongregate.com/games/classicgames/pac-man"
+  },
+  {
+    "title": "Space Invaders",
+    "thumbnail": "https://i.imgur.com/mN3qB9Z.png",
+    "url": "https://www.kongregate.com/games/spaceinvaders/space-invaders"
+  },
+  {
+    "title": "Breakout",
+    "thumbnail": "https://i.imgur.com/oP4rC0A.png",
+    "url": "https://www.kongregate.com/games/classicgames/breakout"
+  },
+  {
+    "title": "Pong",
+    "thumbnail": "https://i.imgur.com/qR5sD1B.png",
+    "url": "https://www.kongregate.com/games/classicgames/pong"
+  },
+  {
+    "title": "Minesweeper",
+    "thumbnail": "https://i.imgur.com/sT6uE2C.png",
+    "url": "https://www.kongregate.com/games/classicgames/minesweeper"
+  },
+  {
+    "title": "Chess",
+    "thumbnail": "https://i.imgur.com/uV7vF3D.png",
+    "url": "https://www.chess.com/play/online"
+  },
+  {
+    "title": "Checkers",
+    "thumbnail": "https://i.imgur.com/wX8wG4E.png",
+    "url": "https://www.kongregate.com/games/classicgames/checkers"
+  },
+  {
+    "title": "2048",
+    "thumbnail": "https://i.imgur.com/yZ9xH5F.png",
+    "url": "https://play2048.co/"
+  },
+  {
+    "title": "Subway Surfers",
+    "thumbnail": "https://i.imgur.com/aB0yI6G.png",
+    "url": "https://www.kongregate.com/games/SYBO/subway-surfers"
+  },
+  {
+    "title": "Temple Run",
+    "thumbnail": "https://i.imgur.com/cD1zJ7H.png",
+    "url": "https://www.kongregate.com/games/imangi/temple-run-2"
+  },
+  {
+    "title": "Crossy Road",
+    "thumbnail": "https://i.imgur.com/eF2aK8I.png",
+    "url": "https://www.kongregate.com/games/Voxel/crossy-road"
+  },
+  {
+    "title": "Candy Crush",
+    "thumbnail": "https://i.imgur.com/gH3bL9J.png",
+    "url": "https://www.candycrushsaga.com/"
+  },
+  {
+    "title": "Bejeweled",
+    "thumbnail": "https://i.imgur.com/iJ4cM0K.png",
+    "url": "https://www.kongregate.com/games/popcap/bejeweled"
+  },
+  {
+    "title": "Bubble Shooter",
+    "thumbnail": "https://i.imgur.com/kL5dN1L.png",
+    "url": "https://www.bubbleshooter.net/"
+  },
+  {
+    "title": "Zuma",
+    "thumbnail": "https://i.imgur.com/mN6eO2M.png",
+    "url": "https://www.kongregate.com/games/popcap/zuma"
+  },
+  {
+    "title": "Peglin",
+    "thumbnail": "https://i.imgur.com/oP7fP3N.png",
+    "url": "https://www.kongregate.com/games/ThunderLotus/peglin"
+  },
+  {
+    "title": "Doodle Jump",
+    "thumbnail": "https://i.imgur.com/qR8gQ4O.png",
+    "url": "https://www.kongregate.com/games/lima-sky/doodle-jump"
+  },
+  {
+    "title": "Angry Birds",
+    "thumbnail": "https://i.imgur.com/sT9hR5P.png",
+    "url": "https://www.kongregate.com/games/rovio/angry-birds"
+  },
+  {
+    "title": "Plants vs Zombies",
+    "thumbnail": "https://i.imgur.com/uV0iS6Q.png",
+    "url": "https://www.kongregate.com/games/popcap/plants-vs-zombies"
+  },
+  {
+    "title": "Cut the Rope",
+    "thumbnail": "https://i.imgur.com/wX1jT7R.png",
+    "url": "https://www.kongregate.com/games/zeptolab/cut-the-rope"
+  },
+  {
+    "title": "Fruit Ninja",
+    "thumbnail": "https://i.imgur.com/yZ2kU8S.png",
+    "url": "https://www.kongregate.com/games/halfbrick/fruit-ninja"
+  },
+  {
+    "title": "Jetpack Joyride",
+    "thumbnail": "https://i.imgur.com/aB3lV9T.png",
+    "url": "https://www.kongregate.com/games/halfbrick/jetpack-joyride"
+  },
+  {
+    "title": "Minecraft Classic",
+    "thumbnail": "https://i.imgur.com/cD4mW0U.png",
+    "url": "https://classic.minecraft.net/"
+  },
+  {
+    "title": "Tank Trouble",
+    "thumbnail": "https://i.imgur.com/kL8qA4Y.png",
+    "url": "https://www.tanktrouble.com/"
+  },
+  {
+    "title": "Shell Shockers",
+    "thumbnail": "https://i.imgur.com/mN9rB5Z.png",
+    "url": "https://shellshockers.io/"
+  },
+  {
+    "title": "Skribbl.io",
+    "thumbnail": "https://i.imgur.com/oP0sC6A.png",
+    "url": "https://skribbl.io/"
+  },
+  {
+    "title": "Among Us",
+    "thumbnail": "https://i.imgur.com/qR1tD7B.png",
+    "url": "https://www.innersloth.com/games/among-us/"
+  },
+  {
+    "title": "Gartic Phone",
+    "thumbnail": "https://i.imgur.com/sT2uE8C.png",
+    "url": "https://garticphone.com/"
+  },
+  {
+    "title": "Slither.io",
+    "thumbnail": "https://i.imgur.com/uV3vF9D.png",
+    "url": "https://slither.io/"
+  },
+  {
+    "title": "Wings.io",
+    "thumbnail": "https://i.imgur.com/wX4wG0E.png",
+    "url": "https://wings.io/"
+  },
+  {
+    "title": "Splix.io",
+    "thumbnail": "https://i.imgur.com/yZ5xH1F.png",
+    "url": "https://splix.io/"
+  },
+  {
+    "title": "Diep.io",
+    "thumbnail": "https://i.imgur.com/aB6yI2G.png",
+    "url": "https://diep.io/"
+  },
+  {
+    "title": "Krunker.io",
+    "thumbnail": "https://i.imgur.com/cD7zJ3H.png",
+    "url": "https://krunker.io/"
+  },
+  {
+    "title": "Zombs.io",
+    "thumbnail": "https://i.imgur.com/eF8aK4I.png",
+    "url": "https://zombs.io/"
+  },
+  {
+    "title": "Surviv.io",
+    "thumbnail": "https://i.imgur.com/gH9bL5J.png",
+    "url": "https://surviv.io/"
+  },
+  {
+    "title": "Wordle",
+    "thumbnail": "https://i.imgur.com/iJ0cM6K.png",
+    "url": "https://www.nytimes.com/games/wordle/"
+  },
+  {
+    "title": "Quordle",
+    "thumbnail": "https://i.imgur.com/kL1dN7L.png",
+    "url": "https://www.quordle.com/"
+  },
+  {
+    "title": "Waffle",
+    "thumbnail": "https://i.imgur.com/mN2eO8M.png",
+    "url": "https://www.wafflegame.net/"
+  },
+  {
+    "title": "Heardle",
+    "thumbnail": "https://i.imgur.com/oP3fP9N.png",
+    "url": "https://www.heardle.app/"
+  },
+  {
+    "title": "Semantle",
+    "thumbnail": "https://i.imgur.com/qR4gQ0O.png",
+    "url": "https://www.semantle.com/"
+  },
+  {
+    "title": "Spelling Bee",
+    "thumbnail": "https://i.imgur.com/sT5hR1P.png",
+    "url": "https://www.nytimes.com/games/spelling-bee"
+  },
+  {
+    "title": "Crossword",
+    "thumbnail": "https://i.imgur.com/uV6iS2Q.png",
+    "url": "https://www.nytimes.com/games/crosswords"
+  },
+  {
+    "title": "Sudoku",
+    "thumbnail": "https://i.imgur.com/wX7jT3R.png",
+    "url": "https://www.nytimes.com/games/sudoku"
+  },
+  {
+    "title": "Mahjong",
+    "thumbnail": "https://i.imgur.com/yZ8kU4S.png",
+    "url": "https://www.nytimes.com/games/mahjong"
+  },
+  {
+    "title": "Letter Boxed",
+    "thumbnail": "https://i.imgur.com/aB9lV5T.png",
+    "url": "https://www.nytimes.com/games/letter-boxed"
+  },
+  {
+    "title": "Connections",
+    "thumbnail": "https://i.imgur.com/cD0mW6U.png",
+    "url": "https://www.nytimes.com/games/connections"
+  },
+  {
+    "title": "Framed",
+    "thumbnail": "https://i.imgur.com/eF1nX7V.png",
+    "url": "https://www.nytimes.com/games/framed"
+  },
+  {
+    "title": "Stackle",
+    "thumbnail": "https://i.imgur.com/gH2oY8W.png",
+    "url": "https://stackle.io/"
+  },
+  {
+    "title": "Linkle",
+    "thumbnail": "https://i.imgur.com/iJ3pZ9X.png",
+    "url": "https://www.linklegame.com/"
+  },
+  {
+    "title": "Frogger",
+    "thumbnail": "https://i.imgur.com/kL4qA0Y.png",
+    "url": "https://www.kongregate.com/games/classicgames/frogger"
+  },
+  {
+    "title": "Galaga",
+    "thumbnail": "https://i.imgur.com/mN5rB1Z.png",
+    "url": "https://www.kongregate.com/games/classicgames/galaga"
+  },
+  {
+    "title": "Donkey Kong",
+    "thumbnail": "https://i.imgur.com/oP6sC2A.png",
+    "url": "https://www.kongregate.com/games/classicgames/donkey-kong"
+  },
+  {
+    "title": "Asteroids",
+    "thumbnail": "https://i.imgur.com/qR7tD3B.png",
+    "url": "https://www.kongregate.com/games/classicgames/asteroids"
+  },
+  {
+    "title": "Centipede",
+    "thumbnail": "https://i.imgur.com/sT8uE4C.png",
+    "url": "https://www.kongregate.com/games/classicgames/centipede"
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "thumbnail": "https://i.imgur.com/uV9vF5D.png",
+    "url": "https://www.kongregate.com/games/classicgames/ms-pac-man"
+  },
+  {
+    "title": "Q*bert",
+    "thumbnail": "https://i.imgur.com/wX0wG6E.png",
+    "url": "https://www.kongregate.com/games/classicgames/qbert"
+  },
+  {
+    "title": "Dig Dug",
+    "thumbnail": "https://i.imgur.com/yZ1xH7F.png",
+    "url": "https://www.kongregate.com/games/classicgames/dig-dug"
+  },
+  {
+    "title": "Missile Command",
+    "thumbnail": "https://i.imgur.com/aB2yI8G.png",
+    "url": "https://www.kongregate.com/games/classicgames/missile-command"
+  },
+  {
+    "title": "Defcon",
+    "thumbnail": "https://i.imgur.com/cD3zJ9H.png",
+    "url": "https://www.kongregate.com/games/classicgames/defcon"
+  },
+  {
+    "title": "Bullet Heaven",
+    "thumbnail": "https://i.imgur.com/eF4aK0I.png",
+    "url": "https://www.kongregate.com/games/P1xelBoy/bullet-heaven-2"
+  },
+  {
+    "title": "Warfare 1944",
+    "thumbnail": "https://i.imgur.com/gH5bL1J.png",
+    "url": "https://www.kongregate.com/games/farbs/warfare-1944"
+  },
+  {
+    "title": "Gun Mayhem",
+    "thumbnail": "https://i.imgur.com/iJ6cM2K.png",
+    "url": "https://www.kongregate.com/games/addictinggamesnow/gun-mayhem"
+  },
+  {
+    "title": "Stick RPG",
+    "thumbnail": "https://i.imgur.com/kL7dN3L.png",
+    "url": "https://www.kongregate.com/games/jebba/stick-rpg"
+  },
+  {
+    "title": "Pandemic",
+    "thumbnail": "https://i.imgur.com/mN8eO4M.png",
+    "url": "https://www.kongregate.com/games/DarkRealmStudios/pandemic-2"
+  },
+  {
+    "title": "Raze",
+    "thumbnail": "https://i.imgur.com/oP9fP5N.png",
+    "url": "https://www.kongregate.com/games/XGen/raze"
+  },
+  {
+    "title": "Fireboy and Watergirl",
+    "thumbnail": "https://i.imgur.com/qR0gQ6O.png",
+    "url": "https://www.kongregate.com/games/oslo_norway/fireboy-and-watergirl-in-the-forest-temple"
+  },
+  {
+    "title": "Portal",
+    "thumbnail": "https://i.imgur.com/sT1hR7P.png",
+    "url": "https://www.kongregate.com/games/Valve/portal"
+  },
+  {
+    "title": "Bloons Tower Defense",
+    "thumbnail": "https://i.imgur.com/uV2iS8Q.png",
+    "url": "https://www.kongregate.com/games/ninjakiwi/bloons-tower-defense-5"
+  },
+  {
+    "title": "Defend Your Castle",
+    "thumbnail": "https://i.imgur.com/wX3jT9R.png",
+    "url": "https://www.kongregate.com/games/XGen/defend-your-castle"
+  },
+  {
+    "title": "Desktop Tower Defense",
+    "thumbnail": "https://i.imgur.com/yZ4kU0S.png",
+    "url": "https://www.kongregate.com/games/PreludeGames/desktop-tower-defense"
+  },
+  {
+    "title": "Realm of the Mad God",
+    "thumbnail": "https://i.imgur.com/aB5lV1T.png",
+    "url": "https://www.realmofthemadgod.com/"
+  },
+  {
+    "title": "AdventureCraft",
+    "thumbnail": "https://i.imgur.com/cD6mW2U.png",
+    "url": "https://www.kongregate.com/games/adventurecraft/adventurecraft"
+  },
+  {
+    "title": "Sonny",
+    "thumbnail": "https://i.imgur.com/eF7nX3V.png",
+    "url": "https://www.kongregate.com/games/KaratekittyNinja/sonny"
+  },
+  {
+    "title": "Astro Ava",
+    "thumbnail": "https://i.imgur.com/gH8oY4W.png",
+    "url": "https://www.kongregate.com/games/Phlubberducky/astro-ava"
+  },
+  {
+    "title": "Dragon Age: Journeys",
+    "thumbnail": "https://i.imgur.com/iJ9pZ5X.png",
+    "url": "https://www.kongregate.com/games/BioWare/dragon-age-journeys"
+  },
+  {
+    "title": "Endless War",
+    "thumbnail": "https://i.imgur.com/kL0qA6Y.png",
+    "url": "https://www.kongregate.com/games/addictinggamesnow/endless-war"
+  },
+  {
+    "title": "Sentry Knight",
+    "thumbnail": "https://i.imgur.com/mN1rB7Z.png",
+    "url": "https://www.kongregate.com/games/P1xelBoy/sentry-knight"
+  },
+  {
+    "title": "Learn to Fly",
+    "thumbnail": "https://i.imgur.com/oP2sC8A.png",
+    "url": "https://www.kongregate.com/games/ConArtist/learn-to-fly"
+  },
+  {
+    "title": "Fancy Pants Adventure",
+    "thumbnail": "https://i.imgur.com/qR3tD9B.png",
+    "url": "https://www.kongregate.com/games/Brad_Borne/fancy-pants-adventure"
+  },
+  {
+    "title": "Ultimate Flash Sonic",
+    "thumbnail": "https://i.imgur.com/sT4uE0C.png",
+    "url": "https://www.kongregate.com/games/makslane/ultimate-flash-sonic"
+  },
+  {
+    "title": "Panda Love",
+    "thumbnail": "https://i.imgur.com/uV5vF1D.png",
+    "url": "https://www.kongregate.com/games/BeastWithin/panda-love"
+  },
+  {
+    "title": "The Last Stand: Union City",
+    "thumbnail": "https://i.imgur.com/wX6wG2E.png",
+    "url": "https://www.kongregate.com/games/Kongregate/the-last-stand-union-city"
+  },
+  {
+    "title": "Rebuild",
+    "thumbnail": "https://i.imgur.com/yZ7xH3F.png",
+    "url": "https://www.kongregate.com/games/Northivanastan/rebuild"
+  },
+  {
+    "title": "Wonderputt",
+    "thumbnail": "https://i.imgur.com/aB8yI4G.png",
+    "url": "https://www.kongregate.com/games/OlliOlli/wonderputt"
+  },
+  {
+    "title": "Line Rider",
+    "thumbnail": "https://i.imgur.com/cD9zJ5H.png",
+    "url": "https://www.kongregate.com/games/indy/line-rider"
+  },
+  {
+    "title": "Bonza",
+    "thumbnail": "https://i.imgur.com/eF0aK6I.png",
+    "url": "https://www.kongregate.com/games/Bonza/bonza"
+  },
+  {
+    "title": "Mastermind",
+    "thumbnail": "https://i.imgur.com/gH1bL7J.png",
+    "url": "https://www.kongregate.com/games/classicgames/mastermind"
+  },
+  {
+    "title": "Hangman",
+    "thumbnail": "https://i.imgur.com/iJ2cM8K.png",
+    "url": "https://www.kongregate.com/games/classicgames/hangman"
+  },
+  {
+    "title": "Blackjack",
+    "thumbnail": "https://i.imgur.com/kL3dN9L.png",
+    "url": "https://www.kongregate.com/games/classicgames/blackjack"
+  },
+  {
+    "title": "Solitaire",
+    "thumbnail": "https://i.imgur.com/mN4eO0M.png",
+    "url": "https://www.kongregate.com/games/classicgames/solitaire"
+  },
+  {
+    "title": "Poker",
+    "thumbnail": "https://i.imgur.com/oP5fP1N.png",
+    "url": "https://www.kongregate.com/games/classicgames/poker"
+  },
+  {
+    "title": "Hearts",
+    "thumbnail": "https://i.imgur.com/qR6gQ2O.png",
+    "url": "https://www.kongregate.com/games/classicgames/hearts"
+  },
+  {
+    "title": "Spades",
+    "thumbnail": "https://i.imgur.com/sT7hR3P.png",
+    "url": "https://www.kongregate.com/games/classicgames/spades"
+  },
+  {
+    "title": "Gin Rummy",
+    "thumbnail": "https://i.imgur.com/uV8iS4Q.png",
+    "url": "https://www.kongregate.com/games/classicgames/gin-rummy"
+  },
+  {
+    "title": "Go Fish",
+    "thumbnail": "https://i.imgur.com/wX9jT5R.png",
+    "url": "https://www.kongregate.com/games/classicgames/go-fish"
+  },
+  {
+    "title": "Crazy Eights",
+    "thumbnail": "https://i.imgur.com/yZ0kU6S.png",
+    "url": "https://www.kongregate.com/games/classicgames/crazy-eights"
+  },
+  {
+    "title": "War",
+    "thumbnail": "https://i.imgur.com/aB1lV7T.png",
+    "url": "https://www.kongregate.com/games/classicgames/war"
+  },
+  {
+    "title": "Memory",
+    "thumbnail": "https://i.imgur.com/cD2mW8U.png",
+    "url": "https://www.kongregate.com/games/classicgames/memory"
+  },
+  {
+    "title": "Simon",
+    "thumbnail": "https://i.imgur.com/eF3nX9V.png",
+    "url": "https://www.kongregate.com/games/classicgames/simon"
+  },
+  {
+    "title": "Battleship",
+    "thumbnail": "https://i.imgur.com/gH4oY0W.png",
+    "url": "https://www.kongregate.com/games/classicgames/battleship"
+  },
+  {
+    "title": "Connect Four",
+    "thumbnail": "https://i.imgur.com/iJ5pZ1X.png",
+    "url": "https://www.kongregate.com/games/classicgames/connect-four"
+  },
+  {
+    "title": "Tic Tac Toe",
+    "thumbnail": "https://i.imgur.com/kL6qA2Y.png",
+    "url": "https://www.kongregate.com/games/classicgames/tic-tac-toe"
+  },
+  {
+    "title": "Checkers Online",
+    "thumbnail": "https://i.imgur.com/mN7rB3Z.png",
+    "url": "https://www.kongregate.com/games/classicgames/checkers-online"
+  },
+  {
+    "title": "Backgammon",
+    "thumbnail": "https://i.imgur.com/oP8sC4A.png",
+    "url": "https://www.kongregate.com/games/classicgames/backgammon"
+  },
+  {
+    "title": "Ludo",
+    "thumbnail": "https://i.imgur.com/qR9tD5B.png",
+    "url": "https://www.kongregate.com/games/classicgames/ludo"
+  },
+  {
+    "title": "Yahtzee",
+    "thumbnail": "https://i.imgur.com/sT0uE6C.png",
+    "url": "https://www.kongregate.com/games/classicgames/yahtzee"
+  },
+  {
+    "title": "Bingo",
+    "thumbnail": "https://i.imgur.com/uV1vF7D.png",
+    "url": "https://www.kongregate.com/games/classicgames/bingo"
+  },
+  {
+    "title": "Go",
+    "thumbnail": "https://i.imgur.com/wX2wG8E.png",
+    "url": "https://www.kongregate.com/games/classicgames/go"
+  },
+  {
+    "title": "Shogi",
+    "thumbnail": "https://i.imgur.com/yZ3xH9F.png",
+    "url": "https://www.kongregate.com/games/classicgames/shogi"
+  },
+  {
+    "title": "Lady Bug",
+    "thumbnail": "https://i.imgur.com/aB4yI0G.png",
+    "url": "https://www.kongregate.com/games/classicgames/lady-bug"
+  },
+  {
+    "title": "Ghouls n Ghosts",
+    "thumbnail": "https://i.imgur.com/cD5zJ1H.png",
+    "url": "https://www.kongregate.com/games/classicgames/ghouls-n-ghosts"
+  },
+  {
+    "title": "Bubble Bobble",
+    "thumbnail": "https://i.imgur.com/eF6aK2I.png",
+    "url": "https://www.kongregate.com/games/classicgames/bubble-bobble"
+  },
+  {
+    "title": "Robotron",
+    "thumbnail": "https://i.imgur.com/gH7bL3J.png",
+    "url": "https://www.kongregate.com/games/classicgames/robotron"
+  },
+  {
+    "title": "Joust",
+    "thumbnail": "https://i.imgur.com/iJ8cM4K.png",
+    "url": "https://www.kongregate.com/games/classicgames/joust"
+  },
+  {
+    "title": "Defender",
+    "thumbnail": "https://i.imgur.com/kL9dN5L.png",
+    "url": "https://www.kongregate.com/games/classicgames/defender"
+  },
+  {
+    "title": "Tempest",
+    "thumbnail": "https://i.imgur.com/mN0eO6M.png",
+    "url": "https://www.kongregate.com/games/classicgames/tempest"
+  },
+  {
+    "title": "Lunar Lander",
+    "thumbnail": "https://i.imgur.com/oP1fP7N.png",
+    "url": "https://www.kongregate.com/games/classicgames/lunar-lander"
+  },
+  {
+    "title": "Worm",
+    "thumbnail": "https://i.imgur.com/qR2gQ8O.png",
+    "url": "https://www.kongregate.com/games/classicgames/worm"
+  },
+  {
+    "title": "Lemmings",
+    "thumbnail": "https://i.imgur.com/sT3hR9P.png",
+    "url": "https://www.kongregate.com/games/classicgames/lemmings"
+  },
+  {
+    "title": "Prince of Persia",
+    "thumbnail": "https://i.imgur.com/uV4iS0Q.png",
+    "url": "https://www.kongregate.com/games/classicgames/prince-of-persia"
+  },
+  {
+    "title": "Boulder Dash",
+    "thumbnail": "https://i.imgur.com/wX5jT1R.png",
+    "url": "https://www.kongregate.com/games/classicgames/boulder-dash"
+  },
+  {
+    "title": "Bully",
+    "thumbnail": "https://i.imgur.com/yZ6kU2S.png",
+    "url": "https://www.kongregate.com/games/RockstarGames/bully"
+  },
+  {
+    "title": "GTA Chinatown Wars",
+    "thumbnail": "https://i.imgur.com/aB7lV3T.png",
+    "url": "https://www.kongregate.com/games/RockstarGames/gta-chinatown-wars"
+  },
+  {
+    "title": "GTA London",
+    "thumbnail": "https://i.imgur.com/cD8mW4U.png",
+    "url": "https://www.kongregate.com/games/RockstarGames/gta-london"
+  },
+  {
+    "title": "Halo Flash",
+    "thumbnail": "https://i.imgur.com/eF9nX5V.png",
+    "url": "https://www.kongregate.com/games/343Industries/halo-flash"
+  },
+  {
+    "title": "Metroid Prime Hunters",
+    "thumbnail": "https://i.imgur.com/gH0oY6W.png",
+    "url": "https://www.kongregate.com/games/Nintendo/metroid-prime-hunters"
+  },
+  {
+    "title": "Castlevania",
+    "thumbnail": "https://i.imgur.com/iJ1pZ7X.png",
+    "url": "https://www.kongregate.com/games/Konami/castlevania"
+  },
+  {
+    "title": "Doom",
+    "thumbnail": "https://i.imgur.com/kL2qA8Y.png",
+    "url": "https://www.kongregate.com/games/idSoftware/doom"
+  },
+  {
+    "title": "Wolfenstein",
+    "thumbnail": "https://i.imgur.com/mN3rB9Z.png",
+    "url": "https://www.kongregate.com/games/idSoftware/wolfenstein"
+  },
+  {
+    "title": "Duke Nukem",
+    "thumbnail": "https://i.imgur.com/oP4sC0A.png",
+    "url": "https://www.kongregate.com/games/3DRealms/duke-nukem"
+  },
+  {
+    "title": "Doom II",
+    "thumbnail": "https://i.imgur.com/qR5tD1B.png",
+    "url": "https://www.kongregate.com/games/idSoftware/doom-ii"
+  },
+  {
+    "title": "Half-Life",
+    "thumbnail": "https://i.imgur.com/sT6uE2C.png",
+    "url": "https://www.kongregate.com/games/Valve/half-life"
+  },
+  {
+    "title": "Counter-Strike",
+    "thumbnail": "https://i.imgur.com/uV7vF3D.png",
+    "url": "https://www.kongregate.com/games/Valve/counter-strike"
+  },
+  {
+    "title": "Team Fortress",
+    "thumbnail": "https://i.imgur.com/wX8wG4E.png",
+    "url": "https://www.kongregate.com/games/Valve/team-fortress"
+  },
+  {
+    "title": "Left 4 Dead",
+    "thumbnail": "https://i.imgur.com/yZ9xH5F.png",
+    "url": "https://www.kongregate.com/games/Valve/left-4-dead"
+  },
+  {
+    "title": "Portal 2",
+    "thumbnail": "https://i.imgur.com/aB0yI6G.png",
+    "url": "https://www.kongregate.com/games/Valve/portal-2"
+  },
+  {
+    "title": "Half-Life 2",
+    "thumbnail": "https://i.imgur.com/cD1zJ7H.png",
+    "url": "https://www.kongregate.com/games/Valve/half-life-2"
+  },
+  {
+    "title": "Bioshock",
+    "thumbnail": "https://i.imgur.com/eF2aK8I.png",
+    "url": "https://www.kongregate.com/games/2KGames/bioshock"
+  },
+  {
+    "title": "System Shock 2",
+    "thumbnail": "https://i.imgur.com/gH3bL9J.png",
+    "url": "https://www.kongregate.com/games/LookinGlass/system-shock-2"
+  },
+  {
+    "title": "Thief",
+    "thumbnail": "https://i.imgur.com/iJ4cM0K.png",
+    "url": "https://www.kongregate.com/games/LookinGlass/thief"
+  },
+  {
+    "title": "Deus Ex",
+    "thumbnail": "https://i.imgur.com/kL5dN1L.png",
+    "url": "https://www.kongregate.com/games/Ion/deus-ex"
+  },
+  {
+    "title": "Splinter Cell",
+    "thumbnail": "https://i.imgur.com/mN6eO2M.png",
+    "url": "https://www.kongregate.com/games/Ubisoft/splinter-cell"
+  },
+  {
+    "title": "Hitman",
+    "thumbnail": "https://i.imgur.com/oP7fP3N.png",
+    "url": "https://www.kongregate.com/games/IOI/hitman"
+  },
+  {
+    "title": "Dishonored",
+    "thumbnail": "https://i.imgur.com/qR8gQ4O.png",
+    "url": "https://www.kongregate.com/games/Arkane/dishonored"
+  },
+  {
+    "title": "Assassin's Creed",
+    "thumbnail": "https://i.imgur.com/sT9hR5P.png",
+    "url": "https://www.kongregate.com/games/Ubisoft/assassins-creed"
+  },
+  {
+    "title": "The Witcher",
+    "thumbnail": "https://i.imgur.com/uV0iS6Q.png",
+    "url": "https://www.kongregate.com/games/CDProjekt/the-witcher"
+  },
+  {
+    "title": "The Elder Scrolls",
+    "thumbnail": "https://i.imgur.com/wX1jT7R.png",
+    "url": "https://www.kongregate.com/games/Bethesda/the-elder-scrolls"
+  },
+  {
+    "title": "Fallout",
+    "thumbnail": "https://i.imgur.com/yZ2kU8S.png",
+    "url": "https://www.kongregate.com/games/Bethesda/fallout"
+  },
+  {
+    "title": "Dark Souls",
+    "thumbnail": "https://i.imgur.com/aB3lV9T.png",
+    "url": "https://www.kongregate.com/games/FromSoftware/dark-souls"
   }
 ]
