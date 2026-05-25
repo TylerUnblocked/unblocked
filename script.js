@@ -25,7 +25,9 @@ function displayGames(gameList) {
     card.className = "game-card";
 
     card.innerHTML = `
-      <img src="${game.thumbnail}" alt="${game.title}">
+      <div style="width: 100%; height: 140px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center;">
+        <h3 style="color: white; text-align: center; padding: 10px;">${game.title}</h3>
+      </div>
       <div class="game-info">
         <h3>${game.title}</h3>
       </div>
@@ -39,17 +41,9 @@ function displayGames(gameList) {
   });
 }
 
-// Open Game
+// Open Game in New Tab
 function openGame(game) {
-  playerSection.classList.remove("hidden");
-
-  gameTitle.textContent = game.title;
-  gameFrame.src = game.url;
-
-  window.scrollTo({
-    top: document.body.scrollHeight,
-    behavior: "smooth"
-  });
+  window.open(game.url, '_blank');
 }
 
 // Close Game
