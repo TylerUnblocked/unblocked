@@ -43,15 +43,7 @@ function displayGames(gameList) {
 
 // Open Game in new tab
 function openGame(game) {
- playerSection.classList.remove("hidden");
-
-  gameTitle.textContent = game.title;
-  gameFrame.src = game.url;
-
-  window.scrollTo({
-    top: document.body.scrollHeight,
-    behavior: "smooth"
-  });
+window.open(game.url, '_blank');
 }
 
 // Close Game
