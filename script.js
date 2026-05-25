@@ -41,10 +41,17 @@ function displayGames(gameList) {
   });
 }
 
-// Open Game in new tab
+// Open Game
 function openGame(game) {
-window.open(game.url, '_blank');
-}
+playerSection.classList.remove("hidden");
+
+  gameTitle.textContent = game.title;
+  gameFrame.src = game.url;
+
+  window.scrollTo({
+    top: document.body.scrollHeight,
+    behavior: "smooth"
+  });
 
 // Close Game
 closeBtn.addEventListener("click", () => {
