@@ -2,57 +2,32 @@
   {
     "title": "Slope",
     "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://slope.javygames.com/"
+    "url": "https://cdn.jsdelivr.net/gh/samdoesdev/slope@master/dist/index.html"
+  },
+  {
+    "title": "Snake",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
+    "url": "https://playsnakegame.com/"
+  },
+  {
+    "title": "Tetris",
+    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
+    "url": "https://chir.ag/projects/tetris/"
+  },
+  {
+    "title": "Pac-Man",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
+    "url": "https://www.pacman-game.net/"
+  },
+  {
+    "title": "2048",
+    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
+    "url": "https://2048game.com/"
   },
   {
     "title": "Flappy Bird",
     "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
     "url": "https://flappybird.io/"
-  },
-  {
-    "title": "Dino Chrome",
-    "thumbnail": "https://img.itch.zone/aW1nLzExNDI4MzAucG5n/315x250%23c/kqjxIX.png",
-    "url": "https://chromedino.com/"
-  },
-  {
-    "title": "Snake",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://playsnake.org/"
-  },
-  {
-    "title": "Tetris",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
-    "url": "https://tetris.com/play-tetris"
-  },
-  {
-    "title": "2048",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://play2048.co/"
-  },
-  {
-    "title": "Pac-Man",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
-    "url": "https://www.pacman-game.com/"
-  },
-  {
-    "title": "Wordle",
-    "thumbnail": "https://img.itch.zone/aW1nLzEzMDc0MzMucG5n/315x250%23c/xWmF9y.png",
-    "url": "https://www.nytimes.com/games/wordle/"
-  },
-  {
-    "title": "Agar.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3NzQwMTYucG5n/315x250%23c/zqBBSw.png",
-    "url": "https://agar.io/"
-  },
-  {
-    "title": "Slither.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE0NzE0NTUucG5n/315x250%23c/6zQ7f7.png",
-    "url": "https://slither.io/"
-  },
-  {
-    "title": "Diep.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzE0NzE0NTUucG5n/315x250%23c/6zQ7f7.png",
-    "url": "https://diep.io/"
   },
   {
     "title": "Cookie Clicker",
@@ -65,9 +40,54 @@
     "url": "https://www.geometrydashworld.com/"
   },
   {
+    "title": "Dino Chrome",
+    "thumbnail": "https://img.itch.zone/aW1nLzExNDI4MzAucG5n/315x250%23c/kqjxIX.png",
+    "url": "https://chromedino.com/"
+  },
+  {
+    "title": "Minesweeper",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
+    "url": "https://www.minesweeper.online/"
+  },
+  {
+    "title": "Wordle",
+    "thumbnail": "https://img.itch.zone/aW1nLzEzMDc0MzMucG5n/315x250%23c/xWmF9y.png",
+    "url": "https://www.nytimes.com/games/wordle/"
+  },
+  {
+    "title": "Sudoku",
+    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
+    "url": "https://www.nytimes.com/games/sudoku"
+  },
+  {
     "title": "Tank Trouble",
     "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG5n/315x250%23c/zEfKNY.png",
     "url": "https://www.tanktrouble.com/"
+  },
+  {
+    "title": "Chess",
+    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
+    "url": "https://www.chess.com/play/online"
+  },
+  {
+    "title": "Agar.io",
+    "thumbnail": "https://img.itch.zone/aW1nLzE3NzQwMTYucG5n/315x250%23c/zqBBSw.png",
+    "url": "https://agar.io/"
+  },
+  {
+    "title": "Skribbl.io",
+    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
+    "url": "https://skribbl.io/"
+  },
+  {
+    "title": "Slither.io",
+    "thumbnail": "https://img.itch.zone/aW1nLzE0NzE0NTUucG5n/315x250%23c/6zQ7f7.png",
+    "url": "https://slither.io/"
+  },
+  {
+    "title": "Diep.io",
+    "thumbnail": "https://img.itch.zone/aW1nLzE3NzQwMTYucG5n/315x250%23c/zqBBSw.png",
+    "url": "https://diep.io/"
   },
   {
     "title": "Krunker.io",
@@ -85,11 +105,6 @@
     "url": "https://1v1.lol/"
   },
   {
-    "title": "Skribbl.io",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
-    "url": "https://skribbl.io/"
-  },
-  {
     "title": "Splix.io",
     "thumbnail": "https://img.itch.zone/aW1nLzE3MjgyMjAucG5n/315x250%23c/p6wIZA.png",
     "url": "https://splix.io/"
@@ -105,34 +120,29 @@
     "url": "https://wings.io/"
   },
   {
-    "title": "Happy Wheels",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://www.totaljerkface.com/happywheels.php"
-  },
-  {
-    "title": "Chess.com",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
-    "url": "https://www.chess.com/play/online"
-  },
-  {
-    "title": "Sudoku",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://www.nytimes.com/games/sudoku"
-  },
-  {
-    "title": "Crossword",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
-    "url": "https://www.nytimes.com/games/crosswords"
-  },
-  {
     "title": "Bubble Shooter",
     "thumbnail": "https://img.itch.zone/aW1nLzEwMjkxMDMucG5n/315x250%23c/4ksIlH.png",
     "url": "https://www.bubbleshooter.net/"
   },
   {
-    "title": "Candy Crush",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG5n/315x250%23c/r6QXhY.png",
-    "url": "https://www.candycrushsaga.com/"
+    "title": "Crossy Road",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
+    "url": "https://crossyroad.io/"
+  },
+  {
+    "title": "Gartic Phone",
+    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
+    "url": "https://garticphone.com/"
+  },
+  {
+    "title": "Doodle Jump",
+    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
+    "url": "https://www.doodlejump.game/"
+  },
+  {
+    "title": "Run 3",
+    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
+    "url": "https://www.iogames.space/run3/"
   },
   {
     "title": "Subway Surfers",
@@ -141,122 +151,122 @@
   },
   {
     "title": "Temple Run",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://templerun2.io/"
-  },
-  {
-    "title": "Run 3",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.run/run3/"
-  },
-  {
-    "title": "Doodle Jump",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://www.iogames.doodlejump/"
-  },
-  {
-    "title": "Flappybird Plus",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://flappybird.io/flappybird-plus"
-  },
-  {
-    "title": "Crossy Road",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://crossyroad.io/"
-  },
-  {
-    "title": "Fruit Ninja",
-    "thumbnail": "https://img.itch.zone/aW1nLzEwMjkxMDMucG5n/315x250%23c/4ksIlH.png",
-    "url": "https://www.iogames.fruitninja/"
-  },
-  {
-    "title": "Cut the Rope",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxNDAucG5n/315x250%23c/hVCBax.png",
-    "url": "https://www.iogames.cuttherope/"
-  },
-  {
-    "title": "Angry Birds",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://www.iogames.angrybirds/"
-  },
-  {
-    "title": "Plants vs Zombies",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://www.iogames.plantsvszombies/"
-  },
-  {
-    "title": "Jetpack Joyride",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
-    "url": "https://www.iogames.jetpackjoyride/"
-  },
-  {
-    "title": "Bloons Tower Defense",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG5n/315x250%23c/zEfKNY.png",
-    "url": "https://www.ninjakiwi.com/btd5"
+    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
+    "url": "https://www.iogames.space/templerun/"
   },
   {
     "title": "Fireboy and Watergirl",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.fireboy-watergirl/"
+    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
+    "url": "https://www.iogames.space/fireboy-watergirl-1/"
+  },
+  {
+    "title": "Bloons Tower Defense",
+    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
+    "url": "https://www.iogames.space/btd5/"
   },
   {
     "title": "Duck Life",
-    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG5n/315x250%23c/5jvTyI.png",
-    "url": "https://www.iogames.ducklife/"
-  },
-  {
-    "title": "Stick RPG",
-    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG5n/315x250%23c/0Yz5O3.png",
-    "url": "https://www.iogames.stickrpg/"
+    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG5n/315x250%23c/r6QXhY.png",
+    "url": "https://www.iogames.space/ducklife/"
   },
   {
     "title": "Learn to Fly",
-    "thumbnail": "https://img.itch.zone/aW1nLzE3MjgyMjAucG5n/315x250%23c/p6wIZA.png",
-    "url": "https://www.iogames.learntofly/"
+    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
+    "url": "https://www.iogames.space/learn-to-fly/"
   },
   {
-    "title": "Fancy Pants Adventure",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.fancypants/"
+    "title": "Stick RPG",
+    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
+    "url": "https://www.iogames.space/stick-rpg/"
   },
   {
     "title": "Ultimate Flash Sonic",
-    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG5n/315x250%23c/d%2B9xyU.png",
-    "url": "https://www.iogames.ultimateflashsonic/"
+    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG9u/315x250%23c/Ymi6TV.png",
+    "url": "https://www.iogames.space/ultimate-flash-sonic/"
+  },
+  {
+    "title": "Fancy Pants Adventure",
+    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG9u/315x250%23c/zEfKNY.png",
+    "url": "https://www.iogames.space/fancy-pants-adventure-1/"
   },
   {
     "title": "Wonderputt",
-    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG5n/315x250%23c/xlhLKV.png",
-    "url": "https://www.iogames.wonderputt/"
+    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
+    "url": "https://www.iogames.space/wonderputt/"
   },
   {
     "title": "Bonza",
-    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG5n/315x250%23c/r6QXhY.png",
-    "url": "https://www.iogames.bonza/"
+    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG9u/315x250%23c/5jvTyI.png",
+    "url": "https://www.iogames.space/bonza/"
   },
   {
-    "title": "Minesweeper",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG5n/315x250%23c/V9d4xX.png",
-    "url": "https://www.iogames.minesweeper/"
+    "title": "Angry Birds",
+    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG9u/315x250%23c/0Yz5O3.png",
+    "url": "https://www.iogames.space/angry-birds/"
   },
   {
-    "title": "Hangman",
-    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG5n/315x250%23c/YpLFnZ.png",
-    "url": "https://www.iogames.hangman/"
+    "title": "Plants vs Zombies",
+    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG9u/315x250%23c/d%2B9xyU.png",
+    "url": "https://www.iogames.space/plants-vs-zombies/"
   },
   {
-    "title": "Memory Game",
-    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG5n/315x250%23c/Ymi6TV.png",
-    "url": "https://www.iogames.memory/"
+    "title": "Cut the Rope",
+    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG9u/315x250%23c/xlhLKV.png",
+    "url": "https://www.iogames.space/cut-the-rope/"
   },
   {
-    "title": "Connect Four",
-    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG5n/315x250%23c/zEfKNY.png",
-    "url": "https://www.iogames.connectfour/"
+    "title": "Jetpack Joyride",
+    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG9u/315x250%23c/r6QXhY.png",
+    "url": "https://www.iogames.space/jetpack-joyride/"
   },
   {
-    "title": "Checkers",
-    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG5n/315x250%23c/mzLFVj.png",
-    "url": "https://www.iogames.checkers/"
+    "title": "Doodle God",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1OTk2MzYucG9u/315x250%23c/V9d4xX.png",
+    "url": "https://www.iogames.space/doodle-god/"
+  },
+  {
+    "title": "Reach the Core",
+    "thumbnail": "https://img.itch.zone/aW1nLzI4NDQzMDcucG9u/315x250%23c/YpLFnZ.png",
+    "url": "https://www.iogames.space/reach-the-core/"
+  },
+  {
+    "title": "Happy Wheels",
+    "thumbnail": "https://img.itch.zone/aW1nLzM1NjczMzEucG9u/315x250%23c/Ymi6TV.png",
+    "url": "https://www.totaljerkface.com/happywheels.php"
+  },
+  {
+    "title": "Stickman Fighter",
+    "thumbnail": "https://img.itch.zone/aW1nLzE2MjM4NjMucG9u/315x250%23c/zEfKNY.png",
+    "url": "https://www.iogames.space/stickman-fighter/"
+  },
+  {
+    "title": "Panda Love",
+    "thumbnail": "https://img.itch.zone/aW1nLzE5OTgyODQucG9u/315x250%23c/mzLFVj.png",
+    "url": "https://www.iogames.space/panda-love/"
+  },
+  {
+    "title": "Platform Racing",
+    "thumbnail": "https://img.itch.zone/aW1nLzU5MjkzOTAucG9u/315x250%23c/5jvTyI.png",
+    "url": "https://www.iogames.space/platform-racing/"
+  },
+  {
+    "title": "City Racer",
+    "thumbnail": "https://img.itch.zone/aW1nLzI3Nzk5ODYucG9u/315x250%23c/0Yz5O3.png",
+    "url": "https://www.iogames.space/city-racer/"
+  },
+  {
+    "title": "Extreme Pamplona",
+    "thumbnail": "https://img.itch.zone/aW1nLzM0MDk1OTIucG9u/315x250%23c/d%2B9xyU.png",
+    "url": "https://www.iogames.space/extreme-pamplona/"
+  },
+  {
+    "title": "Monkey Escape",
+    "thumbnail": "https://img.itch.zone/aW1nLzExODkzMjAucG9u/315x250%23c/xlhLKV.png",
+    "url": "https://www.iogames.space/monkey-escape/"
+  },
+  {
+    "title": "Friv Classics",
+    "thumbnail": "https://img.itch.zone/aW1nLzExMjAxODAucG9u/315x250%23c/r6QXhY.png",
+    "url": "https://www.iogames.space/friv-classics/"
   }
 ]
