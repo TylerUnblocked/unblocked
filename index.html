@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Unblocked Games</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Unblocked Games</h1>
+
+    <input
+      type="text"
+      id="search"
+      placeholder="Search games..."
+    >
+  </header>
+
+  <main>
+
+    <div id="games-grid"></div>
+
+    <section id="player-section" class="hidden">
+      <div class="player-top">
+        <h2 id="game-title">Game</h2>
+
+        <button id="close-btn">Close</button>
+      </div>
+
+      <iframe
+        id="game-frame"
+        src=""
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
