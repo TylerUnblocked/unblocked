@@ -74,6 +74,26 @@ main {
   margin-bottom: 15px;
 }
 
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+#fullscreen-btn {
+  padding: 10px 16px;
+  border: none;
+  background: #667eea;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+#fullscreen-btn:hover {
+  background: #5568d3;
+}
+
 #close-btn {
   padding: 10px 16px;
   border: none;
@@ -81,6 +101,11 @@ main {
   color: white;
   border-radius: 8px;
   cursor: pointer;
+  transition: 0.2s;
+}
+
+#close-btn:hover {
+  background: #b71c1c;
 }
 
 #player-section {

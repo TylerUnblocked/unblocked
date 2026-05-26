@@ -5,6 +5,7 @@ const playerSection = document.getElementById("player-section");
 const gameFrame = document.getElementById("game-frame");
 const gameTitle = document.getElementById("game-title");
 const closeBtn = document.getElementById("close-btn");
+const fullscreenBtn = document.getElementById("fullscreen-btn");
 
 let games = [];
 
@@ -53,6 +54,19 @@ function openGame(game) {
     behavior: "smooth"
   });
 }
+
+// Fullscreen Mode
+fullscreenBtn.addEventListener("click", () => {
+  if (gameFrame.requestFullscreen) {
+    gameFrame.requestFullscreen();
+  } else if (gameFrame.webkitRequestFullscreen) {
+    gameFrame.webkitRequestFullscreen();
+  } else if (gameFrame.mozRequestFullScreen) {
+    gameFrame.mozRequestFullScreen();
+  } else if (gameFrame.msRequestFullscreen) {
+    gameFrame.msRequestFullscreen();
+  }
+});
 
 // Close Game
 closeBtn.addEventListener("click", () => {
